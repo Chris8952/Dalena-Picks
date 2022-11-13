@@ -1,12 +1,13 @@
 .Names {
     display: flex;
-    justify-content: space-between;
-    font-size: 36px;
-    margin-right: 10px;
+    font-size: 34px;
+    font-weight: 900;
+    color: white;
 }
 .week {
     font-weight: 900;
     font-size: 24px;
+    background-color: white;
 }
 .list {
     display: flex;
@@ -15,6 +16,7 @@
 }
 ul {
     list-style: none;
+    font-weight: bold;
 }
 .body {
     display: flex;
@@ -22,13 +24,41 @@ ul {
 .total {
     font-weight: 900;
     font-size: 30px;
+    background-color: white;
 }
 body {
     padding: 50px;
 }
 .wrong {
     background-color: red;
+    font-weight: bold;
 }
 .right {
     background-color: green;
+    font-weight: bold;
 }
+.boo {
+    margin-right: 100px;
+}
+.matthew {
+    margin-right: 290px;
+}
+.dad {
+    margin-left: 0px;
+}
+.mark {
+    margin-left: 140px;
+}
+img {
+    height: 100px;
+    margin-left: 745px;
+}
+.uknown {
+    background-color: white;
+    font-weight: 900;
+}
+.poop {
+    margin-left: 462px;
+}
+
+
